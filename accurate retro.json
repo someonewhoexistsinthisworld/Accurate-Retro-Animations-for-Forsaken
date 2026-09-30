@@ -1,0 +1,238 @@
+{
+  "replacement_rules": [
+    {
+      "name": "InjIdle",
+      "replace_ids": [
+        126523253248611
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/InjIdle.rbxm"
+    },
+    {
+      "name": "InjRun",
+      "replace_ids": [
+        133312964070618
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/InjRun.rbxm"
+    },
+    {
+      "name": "InkWalk",
+      "replace_ids": [
+        75842556102864
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/InjWalk.rbxm"
+    },
+    {
+      "name": "CrouchRun",
+      "replace_ids": [
+        123819351584324
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/two%20time/crouchrun.rbxm"
+    },
+    {
+      "name": "CrouchStart",
+      "replace_ids": [
+        127832793084943
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/two%20time/crouchstart.rbxm"
+    },
+    {
+      "name": "CrouchWalk",
+      "replace_ids": [
+        71206444196585
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/two%20time/crouchwalk.rbxm"
+    },
+    {
+      "name": "CrouchIdle",
+      "replace_ids": [
+        131786719519088
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/two%20time/crouchidle.rbxm"
+    },
+    {
+      "name": "LungeEnd",
+      "replace_ids": [
+        112902284724598
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/two%20time/lungeend.rbxm"
+    },
+    {
+      "name": "LungeLoop",
+      "replace_ids": [
+        77119710693654
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/two%20time/lungeloop.rbxm"
+    },
+    {
+      "name": "LungeStart",
+      "replace_ids": [
+        107640065977686
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/two%20time/lungestart.rbxm"
+    },
+    {
+      "name": "Ritual",
+      "replace_ids": [
+        75202014023855
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/two%20time/ritual.rbxm"
+    },
+    {
+      "name": "Stab",
+      "replace_ids": [
+        106086955212611
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/two%20time/stab.rbxm"
+    },
+    {
+      "name": "Shedletsky Swing",
+      "replace_ids": [
+        121255898612475
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/shed/slash.rbxm"
+    },
+    {
+      "name": "Aim",
+      "replace_ids": [
+        86371356500204
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/chace/aim.rbxm"
+    },
+    {
+      "name": "Coinflip",
+      "replace_ids": [
+        84792911785724
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/chace/coinflip.rbxm"
+    },
+    {
+      "name": "Fire",
+      "replace_ids": [
+        134958187822107
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/chace/fire.rbxm"
+    },
+    {
+      "name": "hatfix",
+      "replace_ids": [
+        106968232312799
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/chace/hatfix.rbxm"
+    },
+    {
+      "name": "Misfire",
+      "replace_ids": [
+        111351142668768
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/chace/misfire.rbxm"
+    },
+    {
+      "name": "unsuccsessful",
+      "replace_ids": [
+        103711888609229
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/chace/unsuc.rbxm"
+    },
+    {
+      "name": "buidlend",
+      "replace_ids": [
+        102390338048610
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/buidler/buildend.rbxm"
+    },
+    {
+      "name": "buidloop",
+      "replace_ids": [
+        113506009524476
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/buidler/buildloop.rbxm"
+    },
+    {
+      "name": "buildstart",
+      "replace_ids": [
+        129788037731944
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/buidler/buildstart.rbxm"
+    },
+    {
+      "name": "pickupIdle",
+      "replace_ids": [
+        120567825331115
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/buidler/pickupidle.rbxm"
+    },
+    {
+      "name": "pickup",
+      "replace_ids": [
+        77054928602119
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/buidler/pickupstart.rbxm"
+    },
+    {
+      "name": "placedown",
+      "replace_ids": [
+        74777591965975
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/buidler/pickupend.rbxm"
+    },
+    {
+      "name": "pickupWalk",
+      "replace_ids": [
+        139623608519149
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/buidler/pickupwalk.rbxm"
+    }
+  ]
+}
