@@ -314,6 +314,42 @@
       "mode": "cdn",
       "enabled": true,
       "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/dusekkar/staffstartup.rbxm"
+    },
+    {
+      "name": "TripwireIdle",
+      "replace_ids": [
+        77968235994360
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/taph/WireIdle.rbxm"
+    },
+    {
+      "name": "TripwireWalk",
+      "replace_ids": [
+        86590352475117
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/taph/WireWalk.rbxm"
+    },
+    {
+      "name": "TripwirePlaceStart",
+      "replace_ids": [
+        72928066575114
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/taph/WirePlaceStart.rbxm"
+    },
+    {
+      "name": "TripwirePlaceEnd",
+      "replace_ids": [
+        87925353650822
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/taph/WirePlaceEnd.rbxm"
     }
   ]
 }
