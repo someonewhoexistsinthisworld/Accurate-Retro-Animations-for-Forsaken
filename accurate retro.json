@@ -233,6 +233,87 @@
       "mode": "cdn",
       "enabled": true,
       "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/buidler/pickupwalk.rbxm"
+    },
+    {
+      "name": "DIdle",
+      "replace_ids": [
+        136674681372796
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/dusekkar/idle.rbxm"
+    },
+    {
+      "name": "DWalk",
+      "replace_ids": [
+        100339989485170
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/dusekkar/walk.rbxm"
+    },
+    {
+      "name": "DRun",
+      "replace_ids": [
+        88141808965613
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/dusekkar/run.rbxm"
+    },
+    {
+      "name": "DInjIdle",
+      "replace_ids": [
+        86238816562291
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/dusekkar/injidle.rbxm"
+    },
+    {
+      "name": "DInjWalk",
+      "replace_ids": [
+        86686374349503
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/dusekkar/inkwalk.rbxm"
+    },
+    {
+      "name": "DInjRun",
+      "replace_ids": [
+        97429137037639
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/dusekkar/inkrun.rbxm"
+    },
+    {
+      "name": "staffloop",
+      "replace_ids": [
+        133514466761937
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/dusekkar/staffloop.rbxm"
+    },
+    {
+      "name": "staffshoot",
+      "replace_ids": [
+        121353303159875
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/dusekkar/staffshoot.rbxm"
+    },
+    {
+      "name": "staggstartup",
+      "replace_ids": [
+        120409755783013
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/Accurate-Retro-Animations-for-Forsaken/raw/refs/heads/main/assets/dusekkar/staffstartup.rbxm"
     }
   ]
 }
